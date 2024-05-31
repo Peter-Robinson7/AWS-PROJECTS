@@ -5,7 +5,9 @@ S3 buckets can be used to host static websites containing (HTML, CSS and Js).
 
 INTRODUCTION
 First, i would like to explain what static and website means and combine the two definintion to define what static website means based on my understanding.
+
 -What does static actually means, For something to be static it doesn't have to change but remains the same.
+
 -What is a website is a collection of interconnected web pages that runs on a web server. Web pages are written in HTML, CSS and Js.
 
    STATIC WEBSITE
